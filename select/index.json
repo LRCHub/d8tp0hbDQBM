@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夏に透明",
+  "base_artist": "Twinfield",
+  "createdAt": "2025-12-24T06:50:07.030477Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏に透明 (feat. 初音ミク)",
+      "artist": "Twinfield",
+      "has_synced": false,
+      "path": "select/pl_01_夏に透明_(feat._初音ミク)_Twinfield.txt"
+    }
+  ]
+}
